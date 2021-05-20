@@ -99,18 +99,3 @@ h1{
 		padding-left:14px;
 		margin-top:20px;}
 		
-		
-		
-		
-		
-body.banner-overlay-on .wsite-header-section:before {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-min-height: 100%;
-height: inherit;
-background-color: #ffffff;
-opacity: 0.2;
-content: "";
-}
